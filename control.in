@@ -48,7 +48,7 @@ c	generate Synchrotron (0-> no, !0 -> yes)
 c	generate source lines (0 -> no, !0 -> yes)
 c
 c
-TYPE 0 1 0 0 0
+TYPE 1 0 0 0 0
 c	
 c                                                                              
 c BEAM:
